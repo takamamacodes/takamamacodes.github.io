@@ -1,5 +1,5 @@
 // Third Party Components
-import React, { Component } from 'react'
+import React from 'react'
 
 class AboutPage extends React.Component {
   render() {
