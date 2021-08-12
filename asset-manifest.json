@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.86043ab8.chunk.js",
-    "main.js.map": "/static/js/main.86043ab8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.91cfb369.js",
-    "runtime-main.js.map": "/static/js/runtime-main.91cfb369.js.map",
-    "static/css/2.da1eef19.chunk.css": "/static/css/2.da1eef19.chunk.css",
-    "static/js/2.12b9bd58.chunk.js": "/static/js/2.12b9bd58.chunk.js",
-    "static/js/2.12b9bd58.chunk.js.map": "/static/js/2.12b9bd58.chunk.js.map",
-    "static/js/3.84d56b42.chunk.js": "/static/js/3.84d56b42.chunk.js",
-    "static/js/3.84d56b42.chunk.js.map": "/static/js/3.84d56b42.chunk.js.map",
+    "main.js": "/static/js/main.db460432.chunk.js",
+    "main.js.map": "/static/js/main.db460432.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1960c7b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1960c7b6.js.map",
+    "static/css/2.8b8f244b.chunk.css": "/static/css/2.8b8f244b.chunk.css",
+    "static/js/2.c5f9909a.chunk.js": "/static/js/2.c5f9909a.chunk.js",
+    "static/js/2.c5f9909a.chunk.js.map": "/static/js/2.c5f9909a.chunk.js.map",
+    "static/js/3.a6d2818e.chunk.js": "/static/js/3.a6d2818e.chunk.js",
+    "static/js/3.a6d2818e.chunk.js.map": "/static/js/3.a6d2818e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.da1eef19.chunk.css.map": "/static/css/2.da1eef19.chunk.css.map",
+    "static/css/2.8b8f244b.chunk.css.map": "/static/css/2.8b8f244b.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.12b9bd58.chunk.js.LICENSE.txt": "/static/js/2.12b9bd58.chunk.js.LICENSE.txt",
-    "static/media/family_photo.fdf52989.jpeg": "/static/media/family_photo.fdf52989.jpeg"
+    "static/js/2.c5f9909a.chunk.js.LICENSE.txt": "/static/js/2.c5f9909a.chunk.js.LICENSE.txt",
+    "static/media/family_photo.fdf52989.jpeg": "/static/media/family_photo.fdf52989.jpeg",
+    "static/media/me_and_taka.0443e9af.jpeg": "/static/media/me_and_taka.0443e9af.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.91cfb369.js",
-    "static/css/2.da1eef19.chunk.css",
-    "static/js/2.12b9bd58.chunk.js",
+    "static/js/runtime-main.1960c7b6.js",
+    "static/css/2.8b8f244b.chunk.css",
+    "static/js/2.c5f9909a.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.86043ab8.chunk.js"
+    "static/js/main.db460432.chunk.js"
   ]
 }
