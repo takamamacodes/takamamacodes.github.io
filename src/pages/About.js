@@ -13,7 +13,7 @@ class AboutPage extends React.Component {
       <Container>
         <Row>
           <Col xs={12} md={8}>
-            This is my awesome about page
+            Oops I've been on vacation! Content soon to come :)
           </Col>
           <Col xs={12} md={4}>
             <AboutBar />
