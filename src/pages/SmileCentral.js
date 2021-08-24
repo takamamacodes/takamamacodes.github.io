@@ -21,7 +21,6 @@ class SmileCentralPage extends React.Component {
   updateDogImage() {
     axios.get("https://dog.ceo/api/breeds/image/random")
       .then(res => {
-        debugger;
         const dogImage = res.data.message;
         this.setState({dogImage})
       })
@@ -41,9 +40,7 @@ class SmileCentralPage extends React.Component {
               <p>Click on the image to replace it with a new one of another cute puppy</p>
             </Row>
             <Row>
-              <div className="w-75">
                 <Image fluid src={this.state.dogImage} thumbnail onClick={this.updateDogImage}/>
-              </div>
             </Row>
           </Col>
           <Col xs={12} md={4}>
