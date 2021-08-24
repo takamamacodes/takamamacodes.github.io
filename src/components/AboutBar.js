@@ -22,6 +22,14 @@ class AboutBar extends React.Component {
       marginLeft: "5%"
     };
 
+    const linkStyle = {
+      textDecoration: "none"
+    };
+
+    const smallerText = {
+      fontSize: "0.75rem"
+    }
+
     return (
       <Container>
         <Row className="justify-content-md-center">
@@ -38,7 +46,11 @@ class AboutBar extends React.Component {
           </Col>
         </Row>
         <Row className="justify-content-md-center">
-          <h4 className="text-center">Meet Wei-ren</h4>
+          <h4 className="text-center">Hi, I'm Wei-ren</h4>
+        </Row>
+        <Row>
+          <p className="text-center" style={smallerText}>Welcome! I'm a software engineer at <a href="htts://sei.cmu.edu" style={linkStyle}>Carnegie Mellon Unveristy Software Engineering Institute</a> who likes to spend her free time exploring with her dog, reading, and learning new things!</p>
+          <p className="text-center" style={smallerText}>I'm based in Pittsburgh, PA, but I have roots in Falmouth, MA and my dream is to eventually live the <a href="https://www.urbandictionary.com/define.php?term=van+life" style={linkStyle}>#vanlife</a> and show my dog the world.</p>
         </Row>
       </Container>
     );

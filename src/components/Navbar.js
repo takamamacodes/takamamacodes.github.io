@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav'
 class Header extends React.Component {
     render() {
       return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg" className="mb-3" >
             <Container>
               <Navbar.Brand href="#homepage">Wei-ren Murray</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
